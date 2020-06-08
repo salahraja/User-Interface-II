@@ -69,6 +69,7 @@ nav {
   flex-direction: row-reverse;
   width: 36%;
   justify-content: space-evenly;
+  color: red;
 }
 
 .buttonone{
